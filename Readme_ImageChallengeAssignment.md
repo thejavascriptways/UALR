@@ -1,4 +1,4 @@
-#Image Challenge Assignment
+# Image Challenge Assignment
 For this assignment, we have posted several challenge ideas for working with images. 
 For this week's assignment, you can pick one of the attached sheets and try your hand at how you might solve the tasks 
 listed for a particular project page using tools, techniques, or algorithms that you can find on the web.
@@ -10,7 +10,7 @@ Note: You are also welcome to use this assignment as inspiration for developing 
 a full-blown data science term project/paper and presentation for this course.
 
 
-##Project_ImageProcessing.pdf
+## Project_ImageProcessing.pdf
 
 Project : Implementation of image processing
 operations
@@ -45,7 +45,7 @@ The vertical version is:
 1 1 1
 
 
-##Project_Retrieval.pdf
+## Project_Retrieval.pdf
 Project: Multimodal Content Retrieval
 In this project, you are going to design and implement algorithms that
 demonstrate the impact of multimodal analysis and searching of multimedia
@@ -76,7 +76,7 @@ Reference Materials:
 
 
 
-##Project_CutDetection.pdf
+## Project_CutDetection.pdf
 
 Project: Scene Cut Detection
 Design and implement an alternate algorithm to detect the scene cuts in a
